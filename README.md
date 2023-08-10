@@ -31,7 +31,7 @@ publisher = {ACM},
 address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3583780.3615045},
 doi = {10.1145/3583780.3615045},
-booktitle = {Proceedings of the 32th ACM International Conference on Information & Knowledge Management},
+booktitle = {Proceedings of the 32nd ACM International Conference on Information & Knowledge Management},
 series = {CIKM '23}
 }
 ```

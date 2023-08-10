@@ -1,0 +1,38 @@
+activation: elu
+alpha: 0.016681005372000592
+arch: 3
+augmentor:
+  hidden: 64
+  lr: 0.001
+  n_layers: 1
+  weight_decay: 0.0005
+  optimizer: Adam
+batch: 0
+batch_size: 0
+beta: 1.0
+dataset: Citeseer
+degthres: 0
+drop_prt: 0.6401407873062461
+dropout: 0.5
+epoch: 2000
+eta: 0.5994842503189409
+evaluate_mode: 0
+gnn:
+  hidden: 64
+  lr: 0.001
+  n_layers: 1
+  weight_decay: 0.0005
+  norm_type: None
+  optimizer: Adam
+n_trials: 100
+patience: 200
+split_type: tail
+temperature: 1.0852378888906036
+theta: 0.01
+use_lcc: true
+use_undirected: true
+verbose: 0
+visualize: 0
+with_bias: 1
+with_decay: 1
+with_gpu: 1
